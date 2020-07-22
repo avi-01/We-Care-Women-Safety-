@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeCare</string>
+    <string name="url">http://192.168.43.228:3000</string>
+    <string name="msg_token_fmt">Token:  %1$s! </string>
+    <string name="title_activity_add_friends">AddFriends</string>
+
+</resources>
